@@ -1,10 +1,10 @@
 ## Pipeline Overview
 MATLAB (network + inputs)
-        ↓
+        -->
 C / MEX (dynamics + spikes)
-        ↓
+        -->
 .mat spike time series
-        ↓
+        -->
 Python (rates + modulation indices + figures)        
 
 ## Repository Structure
