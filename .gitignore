@@ -1,0 +1,15 @@
+# MATLAB
+*.mat
+*.mex*
+*.asv
+
+# Python
+__pycache__/
+*.pyc
+
+# C build artifacts
+*.o
+
+# OS junk
+.DS_Store
+
